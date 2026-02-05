@@ -19,26 +19,87 @@
 175.29.22.86:31029#HK-19#github
 47.245.80.160:58443#HK-20#github
 
-175.29.22.104:21027#JP-1#github
-175.29.22.111:21027#JP-2#github
-175.29.22.114:31027#JP-3#github
-175.29.22.127:31027#JP-4#github
-175.29.22.134:21027#JP-5#github
-175.29.22.158:31027#JP-6#github
-175.29.22.34:21027#JP-7#github
-175.29.22.43:21027#JP-8#github
-175.29.22.53:21027#JP-9#github
-175.29.22.58:31027#JP-10#github
-175.29.22.65:21027#JP-11#github
-175.29.22.65:31027#JP-12#github
-175.29.22.70:31027#JP-13#github
-175.29.22.72:21027#JP-14#github
-175.29.22.74:31027#JP-15#github
-175.29.22.76:31027#JP-16#github
-175.29.22.77:21027#JP-17#github
-175.29.22.86:21027#JP-18#github
-175.29.22.92:31027#JP-19#github
-175.29.22.98:21027#JP-20#github
+103.115.18.154:8443#JP-1#zip.cm.edu.kg
+131.186.35.12:443#JP-2#zip.cm.edu.kg
+131.186.35.148:443#JP-3#zip.cm.edu.kg
+131.186.38.156:8443#JP-4#zip.cm.edu.kg
+131.186.44.105:443#JP-5#zip.cm.edu.kg
+131.186.45.139:443#JP-6#zip.cm.edu.kg
+131.186.57.139:443#JP-7#zip.cm.edu.kg
+131.186.59.74:443#JP-8#zip.cm.edu.kg
+131.186.61.71:443#JP-9#zip.cm.edu.kg
+131.186.61.72:443#JP-10#zip.cm.edu.kg
+132.145.127.11:443#JP-11#zip.cm.edu.kg
+132.145.127.203:2053#JP-12#zip.cm.edu.kg
+132.145.127.203:8443#JP-13#zip.cm.edu.kg
+132.226.15.169:443#JP-14#zip.cm.edu.kg
+138.2.10.82:443#JP-15#zip.cm.edu.kg
+138.2.15.238:443#JP-16#zip.cm.edu.kg
+138.2.16.61:443#JP-17#zip.cm.edu.kg
+138.2.17.245:443#JP-18#zip.cm.edu.kg
+138.2.2.142:443#JP-19#zip.cm.edu.kg
+138.2.21.157:443#JP-20#zip.cm.edu.kg
+138.2.26.251:443#JP-21#zip.cm.edu.kg
+138.2.39.24:443#JP-22#zip.cm.edu.kg
+138.2.45.232:443#JP-23#zip.cm.edu.kg
+138.2.5.136:443#JP-24#zip.cm.edu.kg
+138.2.55.219:8443#JP-25#zip.cm.edu.kg
+138.2.59.112:443#JP-26#zip.cm.edu.kg
+138.2.62.8:443#JP-27#zip.cm.edu.kg
+138.2.7.195:443#JP-28#zip.cm.edu.kg
+138.2.8.237:443#JP-29#zip.cm.edu.kg
+138.3.220.57:443#JP-30#zip.cm.edu.kg
+175.29.22.104:21027#JP-31#github
+175.29.22.111:21027#JP-32#github
+175.29.22.114:31027#JP-33#github
+175.29.22.127:31027#JP-34#github
+175.29.22.134:21027#JP-35#github
+175.29.22.158:31027#JP-36#github
+175.29.22.34:21027#JP-37#github
+175.29.22.43:21027#JP-38#github
+175.29.22.53:21027#JP-39#github
+175.29.22.58:31027#JP-40#github
+175.29.22.65:21027#JP-41#github
+175.29.22.65:31027#JP-42#github
+175.29.22.70:31027#JP-43#github
+175.29.22.72:21027#JP-44#github
+175.29.22.74:31027#JP-45#github
+175.29.22.76:31027#JP-46#github
+175.29.22.77:21027#JP-47#github
+175.29.22.86:21027#JP-48#github
+175.29.22.92:31027#JP-49#github
+175.29.22.98:21027#JP-50#github
+
+129.154.192.217:443#KR-1#zip.cm.edu.kg
+129.154.198.152:443#KR-2#zip.cm.edu.kg
+129.154.201.131:443#KR-3#zip.cm.edu.kg
+129.154.214.253:443#KR-4#zip.cm.edu.kg
+129.154.215.121:443#KR-5#zip.cm.edu.kg
+129.154.220.248:443#KR-6#zip.cm.edu.kg
+129.154.222.63:8443#KR-7#zip.cm.edu.kg
+129.154.50.159:443#KR-8#zip.cm.edu.kg
+130.162.130.105:443#KR-9#zip.cm.edu.kg
+130.162.132.38:443#KR-10#zip.cm.edu.kg
+131.186.17.132:443#KR-11#zip.cm.edu.kg
+131.186.22.50:443#KR-12#zip.cm.edu.kg
+131.186.24.196:443#KR-13#zip.cm.edu.kg
+131.186.25.156:2087#KR-14#zip.cm.edu.kg
+131.186.27.112:2096#KR-15#zip.cm.edu.kg
+132.145.81.117:443#KR-16#zip.cm.edu.kg
+132.145.91.181:8443#KR-17#zip.cm.edu.kg
+132.226.17.112:443#KR-18#zip.cm.edu.kg
+132.226.227.202:443#KR-19#zip.cm.edu.kg
+132.226.229.39:443#KR-20#zip.cm.edu.kg
+132.226.239.91:443#KR-21#zip.cm.edu.kg
+134.185.102.1:443#KR-22#zip.cm.edu.kg
+134.185.107.184:443#KR-23#zip.cm.edu.kg
+134.185.108.199:8443#KR-24#zip.cm.edu.kg
+134.185.110.40:8443#KR-25#zip.cm.edu.kg
+140.238.17.157:443#KR-26#zip.cm.edu.kg
+140.238.22.244:443#KR-27#zip.cm.edu.kg
+140.238.29.48:8443#KR-28#zip.cm.edu.kg
+140.238.8.100:8443#KR-29#zip.cm.edu.kg
+140.245.67.95:443#KR-30#zip.cm.edu.kg
 
 103.195.188.66:12222#SG-1#github
 129.150.35.29:587#SG-2#github
@@ -96,71 +157,70 @@
 198.41.212.130#加拿大 Quebec-2#Cloudflare
 
 104.16.105.166#加拿大 安大略-1#Cloudflare, Inc.
-104.16.13.40#加拿大 安大略-2#Cloudflare, Inc.
-104.16.158.249#加拿大 安大略-3#Cloudflare, Inc.
+104.16.158.249#加拿大 安大略-2#Cloudflare, Inc.
+104.16.179.218#加拿大 安大略-3#Cloudflare, Inc.
 104.16.248.48#加拿大 安大略-4#Cloudflare, Inc.
 104.16.251.148#加拿大 安大略-5#Cloudflare, Inc.
 104.16.65.1#加拿大 安大略-6#Cloudflare, Inc.
 104.17.139.37#加拿大 安大略-7#Cloudflare, Inc.
 104.17.142.212#加拿大 安大略-8#Cloudflare, Inc.
 104.17.144.235#加拿大 安大略-9#Cloudflare, Inc.
-104.17.162.3#加拿大 安大略-10#Cloudflare, Inc.
-104.17.167.134#加拿大 安大略-11#Cloudflare, Inc.
-104.17.182.11#加拿大 安大略-12#Cloudflare, Inc.
-104.17.22.240#加拿大 安大略-13#Cloudflare, Inc.
-104.17.69.244#加拿大 安大略-14#Cloudflare, Inc.
-104.18.151.172#加拿大 安大略-15#Cloudflare, Inc.
-104.18.166.129#加拿大 安大略-16#Cloudflare, Inc.
-104.18.189.153#加拿大 安大略-17#Cloudflare, Inc.
-104.18.223.253#加拿大 安大略-18#Cloudflare, Inc.
-104.18.255.167#加拿大 安大略-19#Cloudflare, Inc.
-104.18.71.238#加拿大 安大略-20#Cloudflare, Inc.
-104.18.81.19#加拿大 安大略-21#Cloudflare, Inc.
-104.18.89.52#加拿大 安大略-22#Cloudflare, Inc.
-104.18.95.26#加拿大 安大略-23#Cloudflare, Inc.
-104.19.148.121#加拿大 安大略-24#Cloudflare, Inc.
-104.19.154.200#加拿大 安大略-25#Cloudflare, Inc.
-104.19.212.207#加拿大 安大略-26#Cloudflare, Inc.
-104.19.220.22#加拿大 安大略-27#Cloudflare, Inc.
-104.24.176.153#加拿大 安大略-28#Cloudflare, Inc.
-104.26.3.162#加拿大 安大略-29#Cloudflare, Inc.
-104.26.4.90#加拿大 安大略-30#Cloudflare, Inc.
-104.26.5.134#加拿大 安大略-31#Cloudflare, Inc.
-104.26.8.117#加拿大 安大略-32#Cloudflare, Inc.
-104.31.16.158#加拿大 安大略-33#Cloudflare, Inc.
-162.159.136.89#加拿大 安大略-34#Cloudflare, Inc.
-162.159.137.204#加拿大 安大略-35#Cloudflare, Inc.
-162.159.140.116#加拿大 安大略-36#Cloudflare, Inc.
-162.159.140.85#加拿大 安大略-37#Cloudflare, Inc.
-162.159.24.131#加拿大 安大略-38#Cloudflare, Inc.
-162.159.58.65#加拿大 安大略-39#Cloudflare, Inc.
-162.159.61.183#加拿大 安大略-40#Cloudflare, Inc.
-172.64.145.194#加拿大 安大略-41#Cloudflare, Inc.
-172.64.152.111#加拿大 安大略-42#Cloudflare, Inc.
-172.64.159.213#加拿大 安大略-43#Cloudflare, Inc.
-172.64.229.7#加拿大 安大略-44#Cloudflare, Inc.
-172.64.48.226#加拿大 安大略-45#Cloudflare, Inc.
-172.64.52.127#加拿大 安大略-46#Cloudflare, Inc.
-172.64.82.114#加拿大 安大略-47#Cloudflare, Inc.
-172.64.91.69#加拿大 安大略-48#Cloudflare, Inc.
-173.245.49.194#加拿大 安大略-49#Cloudflare, Inc.
-188.114.96.125#加拿大 安大略-50#Cloudflare, Inc.
-188.114.97.144#加拿大 安大略-51#Cloudflare, Inc.
-198.41.194.162#加拿大 安大略-52#Cloudflare, Inc.
-198.41.208.15#加拿大 安大略-53#Cloudflare, Inc.
-198.41.208.224#加拿大 安大略-54#Cloudflare, Inc.
-198.41.208.229#加拿大 安大略-55#Cloudflare, Inc.
-198.41.209.127#加拿大 安大略-56#Cloudflare, Inc.
-198.41.209.132#加拿大 安大略-57#Cloudflare, Inc.
-198.41.209.165#加拿大 安大略-58#Cloudflare, Inc.
-198.41.211.227#加拿大 安大略-59#Cloudflare, Inc.
-198.41.214.141#加拿大 安大略-60#Cloudflare, Inc.
-198.41.223.147#加拿大 安大略-61#Cloudflare, Inc.
+104.17.152.203#加拿大 安大略-10#Cloudflare, Inc.
+104.17.162.3#加拿大 安大略-11#Cloudflare, Inc.
+104.17.167.134#加拿大 安大略-12#Cloudflare, Inc.
+104.17.182.11#加拿大 安大略-13#Cloudflare, Inc.
+104.17.22.240#加拿大 安大略-14#Cloudflare, Inc.
+104.17.69.244#加拿大 安大略-15#Cloudflare, Inc.
+104.18.151.172#加拿大 安大略-16#Cloudflare, Inc.
+104.18.166.129#加拿大 安大略-17#Cloudflare, Inc.
+104.18.189.153#加拿大 安大略-18#Cloudflare, Inc.
+104.18.223.253#加拿大 安大略-19#Cloudflare, Inc.
+104.18.224.218#加拿大 安大略-20#Cloudflare, Inc.
+104.18.232.19#加拿大 安大略-21#Cloudflare, Inc.
+104.18.255.167#加拿大 安大略-22#Cloudflare, Inc.
+104.18.27.157#加拿大 安大略-23#Cloudflare, Inc.
+104.18.81.19#加拿大 安大略-24#Cloudflare, Inc.
+104.18.89.52#加拿大 安大略-25#Cloudflare, Inc.
+104.18.95.26#加拿大 安大略-26#Cloudflare, Inc.
+104.19.148.121#加拿大 安大略-27#Cloudflare, Inc.
+104.19.154.200#加拿大 安大略-28#Cloudflare, Inc.
+104.19.212.207#加拿大 安大略-29#Cloudflare, Inc.
+104.19.220.22#加拿大 安大略-30#Cloudflare, Inc.
+104.26.3.162#加拿大 安大略-31#Cloudflare, Inc.
+104.26.4.90#加拿大 安大略-32#Cloudflare, Inc.
+104.26.5.134#加拿大 安大略-33#Cloudflare, Inc.
+104.26.8.117#加拿大 安大略-34#Cloudflare, Inc.
+104.31.16.158#加拿大 安大略-35#Cloudflare, Inc.
+162.159.136.89#加拿大 安大略-36#Cloudflare, Inc.
+162.159.137.204#加拿大 安大略-37#Cloudflare, Inc.
+162.159.140.116#加拿大 安大略-38#Cloudflare, Inc.
+162.159.140.85#加拿大 安大略-39#Cloudflare, Inc.
+162.159.236.67#加拿大 安大略-40#Cloudflare, Inc.
+162.159.24.131#加拿大 安大略-41#Cloudflare, Inc.
+162.159.58.65#加拿大 安大略-42#Cloudflare, Inc.
+162.159.61.183#加拿大 安大略-43#Cloudflare, Inc.
+172.64.145.194#加拿大 安大略-44#Cloudflare, Inc.
+172.64.152.111#加拿大 安大略-45#Cloudflare, Inc.
+172.64.159.213#加拿大 安大略-46#Cloudflare, Inc.
+172.64.229.7#加拿大 安大略-47#Cloudflare, Inc.
+172.64.48.226#加拿大 安大略-48#Cloudflare, Inc.
+172.64.52.127#加拿大 安大略-49#Cloudflare, Inc.
+172.64.82.114#加拿大 安大略-50#Cloudflare, Inc.
+172.64.91.69#加拿大 安大略-51#Cloudflare, Inc.
+173.245.49.194#加拿大 安大略-52#Cloudflare, Inc.
+188.114.96.125#加拿大 安大略-53#Cloudflare, Inc.
+188.114.97.144#加拿大 安大略-54#Cloudflare, Inc.
+198.41.194.162#加拿大 安大略-55#Cloudflare, Inc.
+198.41.208.15#加拿大 安大略-56#Cloudflare, Inc.
+198.41.208.224#加拿大 安大略-57#Cloudflare, Inc.
+198.41.214.141#加拿大 安大略-58#Cloudflare, Inc.
 
 190.93.244.201#哥斯达黎加 Provincia de San José-1#Cloudflare, Inc.
-190.93.246.67#哥斯达黎加 Provincia de San José-2#Cloudflare, Inc.
-190.93.246.71#哥斯达黎加 Provincia de San José-3#Cloudflare, Inc.
-190.93.247.169#哥斯达黎加 Provincia de San José-4#Cloudflare, Inc.
+190.93.245.133#哥斯达黎加 Provincia de San José-2#Cloudflare, Inc.
+190.93.246.188#哥斯达黎加 Provincia de San José-3#Cloudflare, Inc.
+190.93.246.67#哥斯达黎加 Provincia de San José-4#Cloudflare, Inc.
+190.93.246.71#哥斯达黎加 Provincia de San José-5#Cloudflare, Inc.
+190.93.247.169#哥斯达黎加 Provincia de San José-6#Cloudflare, Inc.
 
 162.159.128.253#美国 加州-1#Cloudflare, Inc.
 
@@ -168,6 +228,7 @@
 104.17.127.110#美国 新泽西州-2#Cloudflare, Inc.
 104.18.228.35#美国 新泽西州-3#Cloudflare, Inc.
 104.27.21.118#美国 新泽西州-4#Cloudflare, Inc.
+162.159.240.102#美国 新泽西州-5#Cloudflare, Inc.
 
 104.16.241.229#美国 纽约州-1#Cloudflare, Inc.
 104.21.91.19#美国 纽约州-2#Cloudflare, Inc.
